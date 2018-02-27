@@ -7,7 +7,7 @@ Before starting, make sure you have **_Python_** installed in your system.
 `GitHubProfileExtracter.py` is the python script file. (_User can place it anywhere as per their comfort_)
 
 Open your terminal and go to the directory where your `SGPAcalculator.py` is placed. 
-Run `python SGPAcalculator.py` and enter a valid GitHub username to extract the profile information.
+Run `python SGPAcalculator.py` and enter all the marks as prompted.
 
 Output will be displayed on the Terminal.
 
