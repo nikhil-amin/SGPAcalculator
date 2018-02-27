@@ -4,7 +4,7 @@ A simple Python Script to calculaye SGPA of VTU CSE students.
 
 Before starting, make sure you have **_Python_** installed in your system.
 
-`GitHubProfileExtracter.py` is the python script file. (_User can place it anywhere as per their comfort_)
+`SGPAcalculator.py` is the python script file. (_User can place it anywhere as per their comfort_)
 
 Open your terminal and go to the directory where your `SGPAcalculator.py` is placed. 
 Run `python SGPAcalculator.py` and enter all the marks as prompted.
